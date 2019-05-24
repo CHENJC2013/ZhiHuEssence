@@ -6,12 +6,11 @@ target 'ZhiHuEssence' do
     pod 'CocoaLumberjack/Swift'
     pod 'AlamofireObjectMapper'
     pod 'SwifterSwift', '~> 3.2.0'
-    pod 'RestKit', '~> 0.26.0'
     #pod 'RestKit', :head, :subspecs => ['Core', 'CocoaLumberjack'] #http://stackoverflow.com/questions/31923006/restkit-and-cocoalumberjack-integrated-as-frameworks-in-xcode7
 #    pod 'Reachability'
 #    pod 'RealReachability'
     pod 'PKHUD', '~> 5.0'
-    pod 'SDWebImage'
+    pod 'Kingfisher'
     pod 'IQKeyboardManagerSwift'
     pod 'Colours/Swift'
     #pod 'iRate'
